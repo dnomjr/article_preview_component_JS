@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github link](https://your-solution-url.com)
-- Live Site URL: [Netlify link](https://your-live-site-url.com)
+- Solution URL: [Github link](https://github.com/dnomjr/article_preview_component_JS.git)
+- Live Site URL: [Netlify link](https://article-preview-components.netlify.app/)
 
 ### Built with
 
